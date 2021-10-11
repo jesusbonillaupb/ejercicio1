@@ -1,3 +1,0 @@
-print("EL nombre es Julian")
-adiccional = input("Ingrese un calificativo para el nombre = ")
-print("Julian " + adiccional)
