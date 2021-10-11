@@ -1,0 +1,3 @@
+print("EL nombre es Juank")
+adiccional = input("Ingrese un calificativo para el nombre = ")
+print("Juank " + adiccional)
